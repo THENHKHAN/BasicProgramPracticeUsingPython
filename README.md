@@ -1,1 +1,1 @@
-# Basic Questions Pracrtice Level-0
+# Basic Questions Practice Level-0
