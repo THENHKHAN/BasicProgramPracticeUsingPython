@@ -41,3 +41,16 @@ like addition and subtraction to get the output as swapped numbers.
 
 # Mehtod-1
 ''' Here we'll just exchange their value. In python we can exchange value  '''
+# Method-2 
+'''
+
+Algorithm
+Step 1: Take the input value for the two numbers by the user.
+
+Step 2: Assign num1=num1+num2.
+
+Step 3: Assign num2=num1-num2.
+
+Step 4: Finally the value of num2 can be written as: num1=num1-num2.
+
+'''
