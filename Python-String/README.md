@@ -4,7 +4,7 @@
 [click me-1]: https://github.com/THENHKHAN/BasicProgramPracticeUsingPython/blob/main/Python-String/getCharFromIndex.py
 [click me-2]: https://github.com/THENHKHAN/BasicProgramPracticeUsingPython/blob/main/Python-String/removeTrainlingOrStartSpace.py
 
-[click me-3]: 
+[click me-3]: 3_replaceStringWithOtherString.py
 
 1- Get the character of a string at kth position where k start from 1: [click me-1]
 
