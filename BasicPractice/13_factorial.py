@@ -67,18 +67,6 @@ The else block is only executed if the while loop exits normally(i.e., when the 
  means no break statement used .
 
 '''
-
-
-
-
-
-
-
-
-
-
-
-
 #INFO:
 '''
 The factorial of a non-negative number is the product of all the integers from 1 to that number. Factorial of a negative number 
