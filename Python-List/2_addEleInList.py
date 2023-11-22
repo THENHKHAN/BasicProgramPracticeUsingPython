@@ -28,3 +28,21 @@ ind = int(input("Enter at which index you want add element: "))
 addEleAtAnyIndex(myOriginalList,ind,ele)
 print("***********  Updated Last List         **************")
 print(myOriginalList)
+
+
+# INPUT/OUTPUT:
+'''
+
+***********  Origin List         **************
+[1, 2, 5, 88, 100, 13]
+Enter element that you want to add : 44
+One Item adding at END using append() method 
+***********  Updated Original List         **************
+[1, 2, 5, 88, 100, 13, '44']
+Enter at which index you want add element: 3
+One Item adding at INDEX-3 using insert() method 
+***********  Updated Last List         **************
+[1, 2, 5, '44', 88, 100, 13, '44']
+
+
+'''
