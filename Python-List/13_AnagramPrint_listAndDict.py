@@ -22,11 +22,12 @@ def printTogetherAnagrams(word_list):
     for word in word_list:
         # Convert the word into a sorted tuple of characters
         sorted_chars = tuple(sorted(word))
-        
+
         # Check if the sorted characters tuple is already in the dictionary
         if sorted_chars in anagram_dict:
             # If it is, add the current word to the list of anagrams
             anagram_dict[sorted_chars].append(word)
+            
         else:
             # If it's not, create a new list with the current word
             anagram_dict[sorted_chars] = [word]
