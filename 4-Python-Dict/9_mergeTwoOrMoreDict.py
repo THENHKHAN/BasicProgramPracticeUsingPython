@@ -38,3 +38,9 @@ print(f"Merged Dict : {mergeByUnpacking(dic1, dic2)}")
 print("*********************   WAY - 2 : By d1.update methd(d2) ***********************")
 mergeByUpdateMethod(dic1, dic2)
 print(dic1)
+
+# Very important note about update() and merging more than two dict.
+'''
+1 - update() method takes only one parameter at a time so can't merge multiple at once (otherwise we have merge again n again) . But there is an alternative i.e. unpacking 
+2 - By unpacking we can merger n number of dict into one  but this gives a new dict
+'''
