@@ -62,6 +62,21 @@ print("*********************   WAY - 3 : By  chain()funciton values() and list c
 print(f"List of Unique Values : {byChainFunc(dct)}")# learnt how to use double for loop in ;ist comprehension
 
 
+# I/O:
+'''
+my Dictinoary : {'A': [1, 3, 5, 4], 'B': [4, 6, 8, 10], 'C': [6, 12, 4, 8], 'D': [5, 7, 2]}
+*********************   WAY - 1 : By Two loop set() ***********************
+List of Unique Values of Above dictionary Dict : [1, 2, 3, 4, 5, 6, 7, 8, 10, 12]
+*********************   WAY - 2 : By  sorted(), values() and list comprehension ***********************
+List of Unique Values: [1, 2, 3, 4, 5, 6, 7, 8, 10, 12]
+*********************   WAY - 3 : By  chain()funciton values() and list comprehension ***********************
+List of Unique Values : [1, 2, 3, 4, 5, 6, 7, 8, 10, 12]
+
+'''
+
+
+
+
 # VERY IMPP ABOUT UNPACKING WITH DICT
 '''
 dct = {'A': [1, 3, 5, 4], 'B': [4, 6, 8, 10], 'C': [6, 12, 4, 8], 'D': [5, 7, 2]}
