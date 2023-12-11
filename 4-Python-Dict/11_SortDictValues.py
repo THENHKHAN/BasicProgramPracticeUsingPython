@@ -66,5 +66,20 @@ print("*********************   WAY -  : By for Loop along with sorted() fun ****
 print(f"Sorted Dict : {bySortedAndForLoop(my_dict)}")
 
 
+#  I/O:
+'''
+Original Dict : {'Tom': 67, 'Tina': 54, 'Akbar': 87, 'Kane': 43, 'Divya': 73}
+*********************   WAY - 1 : By Sorted()fun and get attr ***********************
+Sorted Keys based on values:  ['Kane', 'Tina', 'Tom', 'Divya', 'Akbar']
+Sorted Dict : {'Kane': 43, 'Tina': 54, 'Tom': 67, 'Divya': 73, 'Akbar': 87}
+*********************   WAY - 2 : By sorted and dct.items() and lambda ***********************
+Sorted Keys based on values:  [('Kane', 43), ('Tina', 54), ('Tom', 67), ('Divya', 73), ('Akbar', 87)]
+Sorted Dict : {'Kane': 43, 'Tina': 54, 'Tom': 67, 'Divya': 73, 'Akbar': 87}
+*********************   WAY -  : By for Loop along with sorted() fun ***********************
+Sorted values :  [43, 54, 67, 73, 87]
+Sorted Dict : {'Kane': 43, 'Tina': 54, 'Tom': 67, 'Divya': 73, 'Akbar': 87}
+
+'''
+
 
 
