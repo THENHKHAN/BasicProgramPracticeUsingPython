@@ -47,8 +47,7 @@ def fun1(a):
 # my way-2
 def fun2(a) :
     if len(a) ==1 or a == []:
-         return True
-    
+         return True   
     else:
         inc = [True if (a[i]>=a[i+1]) else False for i in range(0,len(a)-1)]
         dec = [True if (a[i]<=a[i+1]) else False for i in range(0,len(a)-1) ]
