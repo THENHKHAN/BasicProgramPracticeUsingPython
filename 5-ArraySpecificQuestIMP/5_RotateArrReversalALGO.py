@@ -44,7 +44,7 @@ def reverseArray(arr, start, end): # start , end willl be based on requirement a
 
    
 
-# method-3
+# method-3 : Without creating any new Array 
 def ReversalALGO(arr, d):
     reverseArray(arr, 0, d-1) # will reverse 1st half i.e to the dth position means index= positon-1
     # print(arr) # [20, 10, 30, 40, 50, 60, 70]
@@ -67,7 +67,7 @@ print("Original Array :  " , arr)
 print(f" After rotaion of {position} Element Resultant Array: {slicingAndReverseFun(arr,position)}")
 print("Original Array Also modified:  " , arr)
 
-print("******************* METHOD - 3 - reversal ALGO  **********************************")
+print("******************* METHOD - 3 - reversal ALGO: Without creating any new Array  **********************************")
 arr2 = [10, 20, 30, 40, 50, 60, 70] #, d = 2, n =7
 print("Original Array :  " , arr2)
 print(f" After rotaion of {position} Element Resultant Array: {ReversalALGO(arr2, position)}")
