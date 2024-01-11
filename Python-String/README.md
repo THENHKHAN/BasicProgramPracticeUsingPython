@@ -17,3 +17,5 @@
 4- Conversion of cases - snake to camel , pascal. [click me-4] 
 
 6- [Python Program to find Least Frequent Character in String](./6_freqOfCharInStringCOuntMinCHar.py)
+
+7- [Python Program for Permutation of a given string by using permutation in-built Fun](7_permuationOfStrUsingInBuitFun.py)
