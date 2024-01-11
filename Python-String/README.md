@@ -16,4 +16,4 @@
 
 4- Conversion of cases - snake to camel , pascal. [click me-4] 
 
-5- [Python Program to find Least Frequent Character in String](./6_freqOfCharInStringCOuntMinCHar.py)
+6- [Python Program to find Least Frequent Character in String](./6_freqOfCharInStringCOuntMinCHar.py)
