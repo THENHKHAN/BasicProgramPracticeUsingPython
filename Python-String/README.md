@@ -21,3 +21,5 @@
 7- [Python Program for Permutation of a given string by using permutation in-built Fun](7_permuationOfStrUsingInBuitFun.py)
 
 8- [Python Program to put spaces between words starting with capital letters using Regex](8_addSpaceBetwenWrdsStartWithUppercaseUsingRegex.py)
+
+9- [Rotate String By slicing IMP Optimal also Suggested](9_RotateStringUsingSlicing.py)
