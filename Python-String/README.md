@@ -15,3 +15,5 @@
 3- Replaces a specified phrase (string) with another specified phrase. [click me-3]
 
 4- Conversion of cases - snake to camel , pascal. [click me-4] 
+
+5- [Python Program to find Least Frequent Character in String](./6_freqOfCharInStringCOuntMinCHar.py)
