@@ -22,6 +22,4 @@
 
 8- [Python Program to put spaces between words starting with capital letters using Regex](8_addSpaceBetwenWrdsStartWithUppercaseUsingRegex.py)
 
-9- [**`Rotate String`** By slicing IMP Optimal also Suggested](9_RotateStringUsingSlicing.py)
-
-10- [Check if a string is **`palindrome`** or not](10_stringPalindromeCheck.py)
+9- [Rotate String By slicing IMP Optimal also Suggested](9_RotateStringUsingSlicing.py)
