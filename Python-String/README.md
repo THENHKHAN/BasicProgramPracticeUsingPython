@@ -25,3 +25,5 @@
 9- [**`Rotate String`** By slicing IMP Optimal also Suggested](9_RotateStringUsingSlicing.py)
 
 10- [Check if a string is **`palindrome`** or not](10_stringPalindromeCheck.py)
+
+11- [Replace **multiple words** in the string with a single letter **`k`**](11_replaceMultipleWordsWithK.py)
