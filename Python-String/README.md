@@ -6,8 +6,6 @@
 [click me-3]: 3_replaceStringWithOtherString.py
 [click me-4]: 5_Snak2PascalCamelConvert.py
 
-
-
 1- Get the character of a string at kth position where k start from 1: [click me-1]
 
 2- Remove whiteSpace at the leading or at the trailing: some info also there. [click me-2]
@@ -27,3 +25,5 @@
 10- [Check if a string is **`palindrome`** or not](10_stringPalindromeCheck.py)
 
 11- [Replace **multiple words** in the string with a single letter **`k`**](11_replaceMultipleWordsWithK.py)
+
+12- [Replace **`duplicate Occurrence`** in String](12_replaceDupOccuringInStr.py)
